@@ -1,0 +1,178 @@
+[
+  {
+    "balance": 1887.58,
+    "picture": "https://randomuser.me/api/portraits/men/66.jpg",
+    "age": 36,
+    "name": "Stafford Duran",
+    "gender": "male",
+    "company": "ENJOLA",
+    "email": "staffordduran@enjola.com",
+    "phone": "+1 (901) 473-2086",
+    "address": "371 Hendrix Street, Crenshaw, Rhode Island, 6129"
+  },
+  {
+    "balance": 3812.71,
+    "picture": "https://randomuser.me/api/portraits/women/3.jpg",
+    "age": 30,
+    "name": "Bernadine Carney",
+    "gender": "female",
+    "company": "DANJA",
+    "email": "bernadinecarney@danja.com",
+    "phone": "+1 (932) 583-2091",
+    "address": "340 Lafayette Walk, Topanga, Nebraska, 9967"
+  },
+  {
+    "balance": 2688.95,
+    "picture": "https://randomuser.me/api/portraits/women/65.jpg",
+    "age": 39,
+    "name": "Pearl Schroeder",
+    "gender": "female",
+    "company": "CUBIX",
+    "email": "pearlschroeder@cubix.com",
+    "phone": "+1 (879) 400-2003",
+    "address": "899 Taaffe Place, Westmoreland, Puerto Rico, 4955"
+  },
+  {
+    "balance": 2045.17,
+    "picture": "https://randomuser.me/api/portraits/men/86.jpg",
+    "age": 40,
+    "name": "Weber Dyer",
+    "gender": "male",
+    "company": "DIGINETIC",
+    "email": "weberdyer@diginetic.com",
+    "phone": "+1 (906) 597-3945",
+    "address": "883 Maple Avenue, Castleton, Missouri, 2648"
+  },
+  {
+    "balance": 2846.05,
+    "picture": "https://randomuser.me/api/portraits/women/22.jpg",
+    "age": 32,
+    "name": "Ivy Glass",
+    "gender": "female",
+    "company": "AQUAFIRE",
+    "email": "ivyglass@aquafire.com",
+    "phone": "+1 (837) 540-2861",
+    "address": "528 Raleigh Place, Gallina, Marshall Islands, 5657"
+  },
+  {
+    "balance": 1193.22,
+    "picture": "https://randomuser.me/api/portraits/men/0.jpg",
+    "age": 28,
+    "name": "Holder Sutton",
+    "gender": "male",
+    "company": "UNCORP",
+    "email": "holdersutton@uncorp.com",
+    "phone": "+1 (927) 524-3717",
+    "address": "665 Times Placez, Orovada, New Hampshire, 892"
+  },
+  {
+    "balance": 2079.05,
+    "picture": "https://randomuser.me/api/portraits/men/45.jpg",
+    "age": 40,
+    "name": "Wood Fletcher",
+    "gender": "male",
+    "company": "MEDALERT",
+    "email": "woodfletcher@medalert.com",
+    "phone": "+1 (996) 479-3671",
+    "address": "945 Thames Street, Dargan, Illinois, 7029"
+  },
+  {
+    "balance": 2014.98,
+    "picture": "https://randomuser.me/api/portraits/women/74.jpg",
+    "age": 38,
+    "name": "Donna Cash",
+    "gender": "female",
+    "company": "DOGNOSIS",
+    "email": "donnacash@dognosis.com",
+    "phone": "+1 (980) 587-2810",
+    "address": "682 Varick Street, Imperial, Alabama, 8178"
+  },
+  {
+    "balance": 1786.70,
+    "picture": "https://randomuser.me/api/portraits/men/44.jpg",
+    "age": 31,
+    "name": "Park Reynolds",
+    "gender": "male",
+    "company": "TRASOLA",
+    "email": "parkreynolds@trasola.com",
+    "phone": "+1 (862) 470-3587",
+    "address": "475 Anna Court, Kingstowne, Kansas, 4649"
+  },
+  {
+    "balance": 1958.79,
+    "picture": "https://randomuser.me/api/portraits/women/29.jpg",
+    "age": 38,
+    "name": "Lottie Christensen",
+    "gender": "female",
+    "company": "RODEOMAD",
+    "email": "lottiechristensen@rodeomad.com",
+    "phone": "+1 (911) 490-2154",
+    "address": "701 Classon Avenue, Harrodsburg, Arkansas, 1434"
+  },
+  {
+    "balance": 2833.23,
+    "picture": "https://randomuser.me/api/portraits/men/79.jpg",
+    "age": 37,
+    "name": "Ayala Moore",
+    "gender": "male",
+    "company": "VINCH",
+    "email": "ayalamoore@vinch.com",
+    "phone": "+1 (835) 575-2776",
+    "address": "322 Green Street, Glendale, Minnesota, 8488"
+  },
+  {
+    "balance": 2410.51,
+    "picture": "https://randomuser.me/api/portraits/women/20.jpg",
+    "age": 28,
+    "name": "Belinda Wolf",
+    "gender": "female",
+    "company": "INTERODEO",
+    "email": "belindawolf@interodeo.com",
+    "phone": "+1 (896) 548-3876",
+    "address": "307 Devoe Street, Nanafalia, West Virginia, 1165"
+  },
+  {
+    "balance": 1104.86,
+    "picture": "https://randomuser.me/api/portraits/men/41.jpg",
+    "age": 27,
+    "name": "Wade Reed",
+    "gender": "male",
+    "company": "VOLAX",
+    "email": "wadereed@volax.com",
+    "phone": "+1 (880) 446-2239",
+    "address": "184 Willow Place, Blanford, Iowa, 3505"
+  },
+  {
+    "balance": 2346.79,
+    "picture": "https://randomuser.me/api/portraits/men/34.jpg",
+    "age": 39,
+    "name": "Carey Carpenter",
+    "gender": "male",
+    "company": "GINK",
+    "email": "careycarpenter@gink.com",
+    "phone": "+1 (838) 426-3668",
+    "address": "171 Garland Court, Chalfant, Georgia, 2875"
+  },
+  {
+    "balance": 1380.34,
+    "picture": "https://randomuser.me/api/portraits/men/66.jpg",
+    "age": 40,
+    "name": "Yang Bond",
+    "gender": "male",
+    "company": "UNEEQ",
+    "email": "yangbond@uneeq.com",
+    "phone": "+1 (805) 492-3058",
+    "address": "186 Himrod Street, Oceola, Massachusetts, 2346"
+  },
+  {
+    "balance": 3039.63,
+    "picture": "https://randomuser.me/api/portraits/women/34.jpg",
+    "age": 21,
+    "name": "Marion Jarvis",
+    "gender": "female",
+    "company": "CAXT",
+    "email": "marionjarvis@caxt.com",
+    "phone": "+1 (971) 466-2804",
+    "address": "400 Denton Place, Wilmington, Mississippi, 2346"
+  }
+]

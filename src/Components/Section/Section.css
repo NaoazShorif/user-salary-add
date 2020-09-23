@@ -1,0 +1,17 @@
+.section {
+    background: gray;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+}
+.user-details{
+    width: 70%;
+    background: orange;
+    text-align: center;
+    overflow: auto;
+}
+.user-salary{
+    width: 30%;
+    background: salmon;
+    text-align: center;
+}

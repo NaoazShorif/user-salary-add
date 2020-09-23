@@ -1,0 +1,26 @@
+.user{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  border-bottom: 1px dashed black;
+  margin: 5px;
+  width: 100%;
+}
+.about{
+   width: 40%;
+   margin-left: 20px;
+   border-left: 1px solid black;
+}
+button{
+    padding: 5px;
+    background: orange;
+    font-weight: bold;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover{
+    background: black;
+    color: orange;
+}
